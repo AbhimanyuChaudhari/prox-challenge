@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+anthropic
+pymupdf
+pillow
+numpy
+httpx
+python-dotenv
+python-multipart
+scikit-learn
